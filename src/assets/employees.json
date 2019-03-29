@@ -1,0 +1,50 @@
+[{
+  "id": 1,
+  "name": "Leanne Graham",
+  "salary": "$60000",
+  "email": "graham@istream.com",
+  "designation": "Developer",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}, {
+  "id": 2,
+  "name": "John Doe",
+  "salary": "$65000",
+  "email": "doe@istream.com",
+  "designation": "Developer",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}, {
+  "id": 2,
+  "name": "Jenny Doe",
+  "salary": "$60000",
+  "email": "jdoe@istream.com",
+  "designation": "Developer",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}, {
+  "id": 3,
+  "name": "Tom Hank",
+  "salary": "$70000",
+  "email": "hank@istream.com",
+  "designation": "Sr, Developer",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}, {
+  "id": 4,
+  "name": "Tim Horn",
+  "salary": "$80000",
+  "email": "horn@istream.com",
+  "designation": "Project Manager",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}, {
+  "id": 5,
+  "name": "Tim Cook",
+  "salary": "$90000",
+  "email": "cook@istream.com",
+  "designation": "Sr. Project Manager",
+  "dateOfHire": "01/01/2015",
+  "achievements": "Client appreciated effort on security. \n Helped resolve integration issues on production"
+}
+]

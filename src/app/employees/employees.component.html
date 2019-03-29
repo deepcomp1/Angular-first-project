@@ -1,0 +1,38 @@
+<h1>Employees</h1>
+<table>
+  <thead>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Salary</th>
+    <th>Email</th>
+    <th>Designation</th>
+    <th>DateOfHire</th>
+    <th>Achievements</th>
+
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employees$">
+      <td>{{employee.id}}</td>
+      <td>{{employee.name}}</td>
+      <td>{{employee.salary}}</td>
+      <td>{{employee.email}}</td>
+      <td>{{employee.designation}}</td>
+      <td>{{employee.dateOfHire}}</td>
+      <td>{{employee.achievements}}</td>
+
+    </tr>
+  </tbody>
+</table>
+<!-- <div *ngFor="let employee of employees$">
+
+</div> -->
+<!-- <ul>
+  <li *ngFor="let employee of employees$">
+    <a routerLink="/details/{{employee.id}}">{{ employee.name }}</a>
+
+    <ul>
+      <li>{{ employee.email }}</li>
+      <li><a href="http://{{ employee.website }}">{{ employee.website }}</a></li>
+    </ul>
+  </li>
+</ul> -->
